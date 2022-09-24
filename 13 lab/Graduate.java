@@ -8,7 +8,7 @@ public class Graduate extends Student {
 	Graduate(int ID, double GPA) {
 		super(ID, GPA);
 	}
-
+	
 	//Methods
 	@Override
 	public String getStatus() {
